@@ -6,7 +6,7 @@ This is the implementation of the attack proposed by the paper [Teacher Model Fi
 Clone this repo:
 ```bash
 git clone https://github.com/yfchen1994/Teacher-Fingerprinting.git
-cd Teacher_Fingerprinting
+cd Teacher-Fingerprinting
 ```
 
 Then install dependencies by:
